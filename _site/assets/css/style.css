@@ -6041,8 +6041,8 @@ ol li {
 }
 
 .intro-image-absolute {
-bottom: 20px;
   max-width: none;
+  bottom: 20px;
   padding: 0;
   margin-bottom: 30px;
 }
