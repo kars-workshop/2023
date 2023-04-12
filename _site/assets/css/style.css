@@ -6063,7 +6063,7 @@ ol li {
 }
 @media (min-width: 1300px) {
   .intro-image-absolute {
-    bottom: 0px;
+    bottom: 50px;
     left: -70px;
     width: 850px;
   }
