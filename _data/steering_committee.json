@@ -1,0 +1,65 @@
+[
+{
+"name": "Vito Walter Anelli",
+"image": "images/team/anelli.jpg",
+"institutionurl": "https://www.poliba.it/",
+"institution": "Polytechnic University of Bari",
+"personalpage": "http://sisinflab.poliba.it/anelli"
+},
+{
+"name": "Pierpaolo Basile",
+"image": "images/team/basile.png",
+"institutionurl": "https://www.uniba.it/",
+"institution": "University of Bari Aldo Moro",
+"personalpage": "http://www.di.uniba.it/~swap/index.php?n=Membri.Basile"
+},
+{
+"name": "Gerard De Melo",
+"image": "images/team/demelo.jpeg",
+"institutionurl": "https://hpi.de/",
+"institution": "Hasso Plattner Institute and University of Potsdam",
+"personalpage": "http://gerard.demelo.org/"
+},
+{
+"name": "Francesco Maria Donini",
+"image": "https://dl.acm.org/do/10.1145/contrib-81100132896/full/2019-09-ritaglioOpenDay.png",
+"institutionurl": "http://www.unitus.it/",
+"institution": "University of Tuscia",
+"personalpage": "http://unitus-public.gomp.it/Docenti/Render.aspx?UID=e02147b4-9a55-47df-a25e-be3e9bb8d269&lingua=en"
+},
+{
+"name": "Antonio Ferrara",
+"image": "https://sisinflab.github.io/helpdesk/assets/images/people/ferrara.jpg",
+"institutionurl": "https://www.poliba.it",
+"institution": "Polytechnic University of Bari",
+"personalpage": "https://sisinflab.poliba.it/ferrara/"
+},
+{
+"name": "Cataldo Musto",
+"image": "images/team/musto.jpg",
+"institutionurl": "https://www.uniba.it/",
+"institution": "University of Bari Aldo Moro",
+"personalpage": "http://www.di.uniba.it/~swap/index.php?n=Membri.CataldoMusto"
+},
+{
+"name": "Fedelucio Narducci",
+"image": "images/team/narducci.jpg",
+"institutionurl": "https://www.poliba.it/",
+"institution": "Polytechnic University of Bari",
+"personalpage": "http://sisinflab.poliba.it/narducci"
+},
+{
+"name": "Azzurra Ragone",
+"image": "images/team/ragone.jpeg",
+"institutionurl": "https://www.uniba.it/",
+"institution": "University of Bari Aldo Moro",
+"personalpage": "https://it.linkedin.com/in/azzurraragone"
+},
+{
+"name": "Markus Zanker",
+"image": "https://webservices.scientificnet.org/rest/uisdata/api/v1/people/3466/image?w=260&h=260",
+"institutionurl": "https://www.unibz.it/",
+"institution": "Free University of Bozen-Bolzano",
+"personalpage": "https://www.unibz.it/en/faculties/computer-science/academic-staff/person/3466-markus-zanker"
+}
+]

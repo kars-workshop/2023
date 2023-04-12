@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Optimizing Semantic Enrichment of Biomedical Content through Knowledge Sharing",
+    "authors": "Asim Abbas, Steve Mbouadeu, Avinash Bisram, Nadeem Iqbal, Fazel Keshtkar and Syed Ahmad Chan Bukhari",
+    "type": "LP",
+    "duration": 11
+  },
+  {
+    "title": "INSPIRED2: An Improved Dataset for Sociable Conversational Recommendation",
+    "authors": "Ahtsham Manzoor and Dietmar Jannach",
+    "type": "LP",
+    "duration": 11
+  },
+  {
+    "title": "Meta-Intents in Conversational Recommender Systems",
+    "authors": "Yuan Ma, Tim Donkers, Timm Kleemann and Jürgen Ziegler",
+    "type": "LP",
+    "duration": 11
+  },
+   {
+    "title": "Performance Predictors for Conversational Fashion Recommendation",
+    "authors": "Maria Vlachou and Craig Macdonald",
+    "type": "LP",
+    "duration": 11
+  }
+]

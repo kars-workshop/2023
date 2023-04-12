@@ -1,0 +1,30 @@
+[
+  {
+    "year": "2022",
+    "location":"Seattle, WA, USA",
+    "colocation": "RecSys 2022",
+    "conference_url": "https://recsys.acm.org/recsys22/",
+    "url": "https://kars-workshop.github.io/2022"
+  },  
+  {
+    "year": "2021",
+    "location":"Amsterdam, The Netherlands",
+    "colocation": "RecSys 2021",
+    "conference_url": "https://recsys.acm.org/recsys21/",
+    "url": "https://kars-workshop.github.io/2021"
+  },  
+  {
+    "year": "2019",
+    "location":"Beijin, CH",
+    "colocation": "CIKM 2019",
+    "conference_url": "http://www.cikm2019.net/",
+    "url": "http://sisinflab.poliba.it/kars/2019/"
+  },
+  {
+    "year": "2018",
+    "location":"Vancouver, CA",
+    "colocation": "RecSys 2018",
+    "conference_url": "https://recsys.acm.org/recsys18/",
+    "url": "http://sisinflab.poliba.it/kars/2018/"
+  }
+]

@@ -1,0 +1,123 @@
+baseurl: '/'
+permalink: pretty
+title: '5th Workshop of Knowledge-aware and Conversational Recommender Systems'
+
+google_analytics_id: ""
+
+homepage:
+  show_call_box: false
+  show_social_buttons: true
+
+logo:
+  mobile: "images/logo/mini.png"
+  desktop: "images/logo/kars_logo_h.png"
+  desktop_height: "64px"
+
+footer:
+  credits: ''
+  copyright_text: '©2023 SisInfLab.'
+
+seo:
+  meta_og_title: "5th Workshop of Knowledge-aware and Conversational Recommender Systems"
+  meta_og_type: "website"
+  meta_og_url: "http://kars-workshop.github.io/2022/"
+  meta_og_image: "https://kars-workshop.github.io/2022/images/preview.png"
+  meta_og_description: "The purpose of the Knowledge-aware and Conversational Recommender Systems (KaRS) Workshop is to provide a meeting forum for stimulating and disseminating research in Knowledge-aware and Conversational Recommender Systems, where researchers can network and discuss their research results in an informal way."
+  meta_twitter_card: "summary"
+  meta_twitter_site: "@sisinflab"
+  meta_twitter_creator: "@sisinflab"
+
+collections:
+  services:
+    output: true
+  editions:
+    output: true
+  team:
+    output: true
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+sass:
+  indentWidth: 4
+  style: compact # possible values: nested expanded compact compressed
+  precision: 10
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
+
+conference:
+  lang: en
+
+  # Show theme errors:
+  show_errors: True
+
+  # Main landing page
+  main:
+    # logo:
+    #   img: ''
+    links:
+      - name: Program
+        relative_url: /program/
+
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Invited Talks
+        color: info
+      - name: Session
+        color: warning
+      - name: Breaks
+        color: success
+ 
+    # Hide icons on talk overview page
+    hide_icons: false
+
+  speakers:
+    # Show first and last name
+    show_firstname: true
+
+  program:
+    # URL of program page
+    url: '/program'
+
+    # Time steps in program table
+    time_steps: 5 # in minutes
+
+    # Show intermediary time steps (next to full hours)
+    show_alltimes: true

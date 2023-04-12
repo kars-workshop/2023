@@ -1,0 +1,26 @@
+[
+  {
+    "title": "INFACT: An Online Human Evaluation Framework for Conversational Recommendation",
+    "authors": "Ahtsham Manzoor and Dietmar Jannach",
+    "type": "SP",
+    "duration": 9
+  },
+  {
+    "title": "Combining IGA and KG for Serendipitous Learning Contents Recommendation",
+    "authors": "Emmanuel Ayedoun, Satoko Inoue, Hiroshi Takenouchi and Masataka Tokumaru",
+    "type": "SP",
+    "duration": 9
+  },
+  {
+    "title": "Are User-Generated Item Reviews Actually Beneficial for Recommendation?",
+    "authors": "Lea Dahm, Tzu-Hua Kao and Tobias Eichinger",
+    "type": "SP",
+    "duration": 9
+  },
+  {
+    "title": "Revisiting the performance evaluation of knowledge-aware recommender systems: are we making progress?",
+    "authors": "Maria Kuznetsova Kuznetsova, Marina Ananyeva and Oleg Lashinin",
+    "type": "SP",
+    "duration": 9
+  }
+]
