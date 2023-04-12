@@ -1,9 +1,0 @@
----
-name: Toward the next generation of news Recommender Systems
-speakers:
-  - Edward C. Malthouse
-categories:
-  - Keynote
----
-
-This talk will discuss the complexities of designing news recommender system (RS) outputs such as newsletters and websites. There will be two main parts to the talk: (1) designing news RS outputs to balance between short- and longer-term objectives; and (2) creating bundled recommendations with the table d’hote (“host’s table”) approach. First, RS often optimize short-term metrics that can be easily measured, but the strategic business goals of the system are typically realized over a longer period of time and are more difficult to measure, e.g., customer lifetime value (CLV), which is the discount sum of expected future cash flows due to the relationship. I will give empirical examples showing how optimizing some short-term news goals can harm the long-term goal. This hazard can be avoided by proposing and testing a causal model linking the short- and long-term goals through mediators. In the case of news RS, the key mediator is engagement, which is how news outputs create value for readers. I will establish short-term engagement metrics. The second part describes the table d’hote approach to create engaging RS outputs such as newsletters, which is motivated by the task of creating other “bundles” such as fine-dining experiences, musical concert set lists and art museum special exhibits. In all of these situations, the sequencing of items is an important consideration beyond more traditional RS goals such as coverage, novelty, diversity and serendipity. Table d’hote builds on communication theories and stratified sampling to create automated bundled news recommendations. It includes a typology of how news creates value for readers through different surveillance and serendipity experiences. I will discuss challenges for future research.
