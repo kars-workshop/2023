@@ -1,7 +1,7 @@
 ---
 title: KaRS 2023
 layout: home
-description: 5th Workshop of Knowledge-aware and Conversational Recommender Systems
+description: 5th Knowledge-aware and Conversational Recommender Systems Workshop
 date_location: Sept. 18th-22nd, 2023<br>Singapore
 intro_image: "images/singapore.png"
 intro_image_absolute: true
