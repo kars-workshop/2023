@@ -69,9 +69,9 @@ Topics of interest include, but are not limited to:
 # Submissions
 
 Submissions of full research papers must be in English, in PDF format in the **CEUR-WS two-column conference format** available at:
-http://ceur-ws.org/Vol-XXX/CEURART.zip
+<http://ceur-ws.org/Vol-XXX/CEURART.zip>
 or at:
-https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk
+<https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk>
  if an Overleaf template is preferred.
 
 Submission will be peer-reviewed and accepted papers will appear in the CEUR workshop series. Papers may range from theoretical works to system descriptions.
@@ -87,8 +87,7 @@ The review process is **single-blind**. Submitted papers will be evaluated accor
 Short and long paper submissions must be original work and may not be under submission to another venue at the time of review.
 Accepted papers will appear in the **workshop proceedings**.
 
-Submission will be through Microsoft CMT at:
-https://cmt3.research.microsoft.com/kars2023
+Submission will be through Microsoft CMT at: <https://cmt3.research.microsoft.com/kars2023>
 
 # Important Dates
 
