@@ -18,10 +18,10 @@ footer:
   copyright_text: '©2023 SisInfLab.'
 
 seo:
-  meta_og_title: "5th Workshop of Knowledge-aware and Conversational Recommender Systems"
+  meta_og_title: "5th Knowledge-aware and Conversational Recommender Systems Workshop"
   meta_og_type: "website"
-  meta_og_url: "http://kars-workshop.github.io/2022/"
-  meta_og_image: "https://kars-workshop.github.io/2022/images/preview.png"
+  meta_og_url: "http://kars-workshop.github.io/2023/"
+  meta_og_image: "https://kars-workshop.github.io/2023/images/preview.png"
   meta_og_description: "The purpose of the Knowledge-aware and Conversational Recommender Systems (KaRS) Workshop is to provide a meeting forum for stimulating and disseminating research in Knowledge-aware and Conversational Recommender Systems, where researchers can network and discuss their research results in an informal way."
   meta_twitter_card: "summary"
   meta_twitter_site: "@sisinflab"
