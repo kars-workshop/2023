@@ -91,7 +91,7 @@ Submission will be through Microsoft CMT at: <https://cmt3.research.microsoft.co
 
 # Important Dates
 
-* **Paper submissions due**: August 3rd, 2023
+* **Paper submissions due**: ~~August 3rd, 2023~~ August 10th, 2023
 * **Paper acceptance notification**: August 27th, 2023
 * **Camera-ready deadline**: September 10th, 2023
 * **Workshop day**: September 18th-22nd, 2023
