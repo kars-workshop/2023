@@ -1,170 +1,162 @@
 [
   {
+    "name": "Nourah AlRossais",
+    "institution": "King Saud University"
+  },
+  {
     "name": "Vito Walter Anelli",
-    "institution": "Politecnico di Bari"
+    "institution": "Polytechnic University of Bari"
   },
   {
-    "name": "Azzurra Ragone",
-    "institution": "EY Business and Technology Solutions"
+    "name": "Marco Angelini",
+    "institution": "Sapienza University of Rome"
   },
   {
-    "name": "Paolo Rosso",
-    "institution": "Universitat Politècnica de València"
+    "name": "Andrea Bacciu",
+    "institution": "Sapienza University of Rome"
   },
   {
-    "name": "Andrea Iovine",
-    "institution": "Università degli Studi di Bari Aldo Moro"
+    "name": "Giacomo Balloccu",
+    "institution": "University of Cagliari"
   },
   {
-    "name": "Fedelucio Narducci",
-    "institution": "Politecnico di Bari"
+    "name": "Pierpaolo Basile",
+    "institution": "University of Bari"
+  },
+    {
+    "name": "Alejandro Bellogin",
+    "institution": "Universidad Autonoma de Madrid"
   },
   {
-    "name": "Adir Solomon",
-    "institution": "Ben-Gurion University of the"
+    "name": "Giovanni Maria Biancofiore",
+    "institution": "Polytechnic University of Bari"
+  },
+    {
+    "name": "Ludovico Boratto",
+    "institution": "University of Cagliari"
+  },
+    {
+    "name": "Giandomenico Cornacchia",
+    "institution": "Polytechnic University of Bari"
+  },
+      {
+    "name": "Humberto Corona",
+    "institution": "Spotify"
+  },
+    {
+    "name": "Marco de Gemmis",
+    "institution": "University of Bari"
+  },
+      {
+    "name": "Gerard De Melo",
+    "institution": "Hasso Plattner Institute and University of Potsdam"
+  },
+        {
+    "name": "Amra Delić",
+    "institution": "University of Sarajevo"
+  },
+    {
+    "name": "Davide Di Ruscio",
+    "institution": "Università degli Studi dell'Aquila"
+  },
+    {
+    "name": "Francesco M. Donini",
+    "institution": "Università della Tuscia"
+  },
+  {
+    "name": "Fabrizio Falchi",
+    "institution": "ISTI-CNR"
+  },
+  {
+    "name": "Antonio Ferrara",
+    "institution": "Polytecnic University of Bari"
   },
   {
     "name": "Maurizio Ferrari Dacrema",
     "institution": "Politecnico di Milano"
   },
-  {
-    "name": "Diego Antognini",
-    "institution": "Ecole Polytechnique Fédérale de Lausanne"
-  },
-  {
-    "name": "Marco Polignano",
-    "institution": "Università degli Studi di Bari Aldo Moro"
-  },
-  {
-    "name": "Tommaso Di Noia",
-    "institution": ""
-  },
-  {
-    "name": "Iván Cantador",
-    "institution": "Universidad Autónoma de Madrid"
-  },
-  {
-    "name": "Marco de Gemmis",
-    "institution": "University of Bari Aldo Moro, Dept. of Computer Science"
-  },
-  {
-    "name": "Raffaele Perego",
-    "institution": "ISTI-CNR"
-  },
-  {
-    "name": "Claudio Gennaro",
-    "institution": "ISTI - CNR"
-  },
-  {
-    "name": "Gianmaria Silvello",
-    "institution": "University of Padua"
-  },
-  {
-    "name": "Cataldo Musto",
-    "institution": "Dipartimento di Informatica - University of Bari"
-  },
-  {
-    "name": "Davide Di Ruscio",
-    "institution": "Università degli Studi dell'Aquila"
-  },
-  {
-    "name": "Nicola Tonellotto",
-    "institution": ""
-  },
-  {
-    "name": "Pierpaolo Basile",
-    "institution": "Dipartimento di Informatica - University of Bari"
-  },
-  {
-    "name": "Alejandro Bellogin",
-    "institution": "Universidad Autonoma de Madrid"
-  },
-  {
-    "name": "Chiara Renso",
-    "institution": "ISTI-CNR, Pisa, Italy"
-  },
-  {
-    "name": "Pablo Sánchez",
-    "institution": "Universidad Autónoma de Madrid"
-  },
-  {
-    "name": "Benjamin Heitmann",
-    "institution": "RWTH Aachen University, Database and Information Systems Group (i5)"
-  },
-  {
-    "name": "Maria Maistro",
-    "institution": "University of Copenhagen"
-  },
-  {
-    "name": "Olga Marino",
-    "institution": "Universidad de los Andes"
-  },
-  {
-    "name": "Francesco M Donini",
-    "institution": "Universita' della Tuscia"
-  },
-  {
+    {
     "name": "Dietmar Jannach",
     "institution": "University of Klagenfurt"
   },
-  {
-    "name": "Cristina Gena",
-    "institution": "Department of Computer Science, University of Torino"
+    {
+    "name": "Daniele Malitesta",
+    "institution": "Polytecnic University of Bari"
   },
-  {
-    "name": "Giorgio Maria Di Nunzio",
-    "institution": "University of Padua"
+      {
+    "name": "Alberto Carlo Maria Mancino",
+    "institution": "Polytecnic University of Bari"
   },
-  {
-    "name": "Federica Cena",
-    "institution": "University of Torino"
+    {
+    "name": "Olga Marino",
+    "institution": "Universidad de los Andes"
   },
-  {
-    "name": "Markus Zanker",
+    {
+    "name": "Mirko Marras",
+    "institution": "University of Cagliari"
+  },
+    {
+    "name": "David Massimo",
     "institution": "Free University of Bozen-Bolzano"
   },
-  {
-    "name": "Ludovico Boratto",
+      {
+    "name": "Giacomo Medda",
     "institution": "University of Cagliari"
+  },
+    {
+    "name": "Cataldo Musto",
+    "institution": "University of Bari"
   },
   {
     "name": "Franco Maria Nardini",
     "institution": "ISTI-CNR"
   },
-  {
-    "name": "Alain Starke",
-    "institution": "Wageningen University & Research"
+    {
+    "name": "Fedelucio Narducci",
+    "institution": "Polytechnic University of Bari"
   },
-  {
-    "name": "Toine Bogers",
-    "institution": "Aalborg University"
+      {
+    "name": "Vincenzo Paparella",
+    "institution": "Polytechnic University of Bari"
   },
-  {
-    "name": "Francesco Ricci",
-    "institution": "Free University of Bozen-Bolzano"
+    {
+    "name": "Raffaele Perego",
+    "institution": "ISTI-CNR"
   },
-  {
-    "name": "Giovanni Semeraro",
+    {
+    "name": "Marco Polignano",
     "institution": "University of Bari"
   },
-  {
-    "name": "Nourah Alrossais",
-    "institution": "University of York"
-  },
-  {
-    "name": "Nicola Ferro",
-    "institution": "University of Padova"
-  },
-  {
-    "name": "Yashar Deldjoo",
-    "institution": "Politecnico di Bari"
-  },
-  {
+    {
     "name": "Claudio Pomo",
-    "institution": "Politecnico di Bari"
+    "institution": "Polytechnic University of Bari"
+  },
+      {
+    "name": "Erasmo Purificato",
+    "institution": "Otto von Guericke University Magdeburg"
   },
   {
-    "name": "Antonio Ferrara",
-    "institution": "Politecnico di Bari"
+    "name": "Azzurra Ragone",
+    "institution": "University of Bari"
+  },
+    {
+    "name": "Yongli Ren",
+    "institution": "RMIT University"
+  },
+    {
+    "name": "Chiara Renso",
+    "institution": "ISTI-CNR"
+  },
+      {
+    "name": "Federico Siciliano",
+    "institution": "Sapienza University of Rome"
+  },
+    {
+    "name": "Marko Tkalcic",
+    "institution": "Free University of Bozen-Bolzano"
+  },
+    {
+    "name": "Markus Zanker",
+    "institution": "Free University of Bozen-Bolzano and University of Klagenfurt"
   }
 ]
