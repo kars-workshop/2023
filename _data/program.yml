@@ -19,7 +19,7 @@ days:
             time_end: '16:05'
             hide: true
           - name: "Session 3: Content-Based and Knowledge-Aware RSs 1"
-            time_start: '16:00'
+            time_start: '16:05'
             time_end: '16:50'
           - name: "Session 4: Content-Based and Knowledge-Aware RSs 2"
             time_start: '16:50'
