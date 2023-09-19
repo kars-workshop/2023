@@ -8,20 +8,20 @@ days:
           - name: Opening
             time_start: '14:00'
             time_end: '14:10'
-          - name: Session 1: Conversational RSs
+          - name: "Session 1: Conversational RSs"
             time_start: '14:10'
             time_end: '14:43'
-          - name: Session 2: LLMs for Recommendation
+          - name: "Session 2: LLMs for Recommendation"
             time_start: '14:43'
             time_end: '15:20'
           - name: Coffee Break
             time_start: '15:20'
             time_end: '16:05'
             hide: true
-          - name: Session 3: Content-Based and Knowledge-Aware RSs
+          - name: "Session 3: Content-Based and Knowledge-Aware RSs 1"
             time_start: '16:00'
             time_end: '16:49'
-          - name: Session 4: 
+          - name: "Session 4: Content-Based and Knowledge-Aware RSs 2"
             time_start: '16:49'
             time_end: '17:16'
           - name: Closing
