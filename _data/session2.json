@@ -1,26 +1,26 @@
 [
       {
-    "title": "Nudging Towards Health in a Conversational Food Recommender System Using Multi-Modal Interactions and Nutrition Labels",
-    "authors": "Giovanni Castiglia, Ayoub El Majjodi, Federica Calò, Yashar Deldjoo, Fedelucio Narducci, Alain Starke and Christoph Trattner",
+    "title": "VideolandGPT: A User Study on a Conversational Recommender System",
+    "authors": "Mateo Gutierrez Granada, Mateo Gutierrez Granada, Dina Zilbershtein, Daan Odijk and Francesco Barile",
+    "type": "DEMO",
+    "duration": 8
+  },
+  {
+    "title": "RecoGPT: A Conversational Agent Fine-tuned for User Preferences",
+    "authors": "Flavian Vasile",
+    "type": "DEMO",
+    "duration": 8
+  },
+  {
+    "title": "Extraction of Atypical Aspects from Customer Reviews: Datasets and Experiments with Language Models",
+    "authors": "Smita Nannaware, Erfan Al-Hossami and Razvan Bunescu",
     "type": "LP",
     "duration": 11
   },
   {
-    "title": "A Nonparametric Contextual Bandit with Arm-level Eligibility Control for Customer Service Routing",
-    "authors": "Ruofeng Wen, Wenjun Zeng and Yi Liu",
-    "type": "LP",
-    "duration": 11
-  },
-  {
-    "title": "Combining Unstructured Content and Knowledge Graphs into Recommendation Datasets",
-    "authors": "Weizhe Lin, Linjun Shou, Ming Gong, Jian Pei, Zhilin Wang, Bill Byrne and Daxin Jiang",
-    "type": "SP",
-    "duration": 9
-  },
-  {
-    "title": "Transformer-Empowered Content-Aware Collaborative Filtering",
-    "authors": "Weizhe Lin, Linjun Shou, Ming Gong, Jian Pei, Zhilin Wang, Bill Byrne and Daxin Jiang",
-    "type": "LP",
-    "duration": 11
+    "title": "Potentials of Combining Local Knowledge and LLMs for Recommender Systems",
+    "authors": "Thomas E Kolb, Ahmadou Wagne, Mete Sertkan and Julia Neidhardt",
+    "type": "POS",
+    "duration": 8
   }
 ]
