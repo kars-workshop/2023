@@ -1,29 +1,29 @@
 days:
-  - name: Sept. 22 - Thursday
-    abbr: We
-    date: 2021-09-22
+  - name: Sept. 19 - Tuesday
+    abbr: Tu
+    date: 2023-09-19
     rooms:
       - name: Physical
         talks:
           - name: Opening
             time_start: '14:00'
-            time_end: '14:05'
-          - name: Session 1
-            time_start: '14:05'
-            time_end: '14:40'
-          - name: Next-Generation Intelligent Assistants for AR/VR Devices
-            time_start: '14:40'
-            time_end: '15:30'
+            time_end: '14:10'
+          - name: Session 1: Conversational RSs
+            time_start: '14:10'
+            time_end: '14:43'
+          - name: Session 2: LLMs for Recommendation
+            time_start: '14:43'
+            time_end: '15:20'
           - name: Coffee Break
-            time_start: '15:30'
-            time_end: '16:00'
+            time_start: '15:20'
+            time_end: '16:05'
             hide: true
-          - name: Session 2
+          - name: Session 3: Content-Based and Knowledge-Aware RSs
             time_start: '16:00'
-            time_end: '16:40'
-          - name: Session 3
-            time_start: '16:40'
-            time_end: '17:25'
+            time_end: '16:49'
+          - name: Session 4: 
+            time_start: '16:49'
+            time_end: '17:16'
           - name: Closing
-            time_start: '17:25'
+            time_start: '17:16'
             time_end: '17:30'
