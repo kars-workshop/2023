@@ -1,26 +1,26 @@
 [
   {
-    "title": "Optimizing Semantic Enrichment of Biomedical Content through Knowledge Sharing",
-    "authors": "Asim Abbas, Steve Mbouadeu, Avinash Bisram, Nadeem Iqbal, Fazel Keshtkar and Syed Ahmad Chan Bukhari",
+    "title": "Mitigating Data Sparsity via Neuro-Symbolic Knowledge Transfer",
+    "authors": "Tommaso Carraro, Alessandro Daniele, Fabio Aiolli and Luciano Serafini",
     "type": "LP",
     "duration": 11
   },
   {
-    "title": "INSPIRED2: An Improved Dataset for Sociable Conversational Recommendation",
-    "authors": "Ahtsham Manzoor and Dietmar Jannach",
+    "title": "GInRec: A Gated Architecture for Inductive Recommendation using Knowledge Graphs",
+    "authors": "Theis E. Jendal, Matteo Lissandrini, Peter Dolog and Katja Hose",
     "type": "LP",
     "duration": 11
   },
   {
-    "title": "Meta-Intents in Conversational Recommender Systems",
-    "authors": "Yuan Ma, Tim Donkers, Timm Kleemann and Jürgen Ziegler",
+    "title": "MeKB-Rec: Personal Knowledge Graph Learning for Cross-Domain Recommendation",
+    "authors": "Xin Su, Yao Zhou, Zifei Shan and Qian Chen",
     "type": "LP",
     "duration": 11
   },
    {
-    "title": "Performance Predictors for Conversational Fashion Recommendation",
+    "title": "Nourah A AlRossais",
     "authors": "Maria Vlachou and Craig Macdonald",
-    "type": "LP",
-    "duration": 11
+    "type": "SP",
+    "duration": 8
   }
 ]
