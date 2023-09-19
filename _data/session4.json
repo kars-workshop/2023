@@ -1,26 +1,20 @@
 [
   {
-    "title": "INSPIRED2: An Improved Dataset for Sociable Conversational Recommendation",
-    "authors": "Ahtsham Manzoor and Dietmar Jannach",
-    "type": "LP",
-    "duration": 11
+    "title": "Knowledge Graph Datasets for Recommendation",
+    "authors": "Vincenzo Paparella, Alberto Carlo Maria Mancino, Antonio Ferrara, Claudio Pomo, Vito Walter Anelli and Tommaso Di Noia",
+    "type": "SP",
+    "duration": 8
   },
   {
-    "title": "Meta-Intents in Conversational Recommender Systems",
-    "authors": "Yuan Ma, Tim Donkers, Timm Kleemann and Jürgen Ziegler",
-    "type": "LP",
-    "duration": 11
+    "title": "CONREC: Continuous Recommendation of Online Learning Videos Based on Concept Maps",
+    "authors": "Sungbeom Lee, Bumku Choi, Jungkyu Han and Sejin Chun",
+    "type": "DEMO",
+    "duration": 8
   },
    {
-    "title": "Performance Predictors for Conversational Fashion Recommendation",
-    "authors": "Maria Vlachou and Craig Macdonald",
-    "type": "LP",
-    "duration": 11
-  },
-    {
-    "title": "Nudging Towards Health in a Conversational Food Recommender System Using Multi-Modal Interactions and Nutrition Labels",
-    "authors": "Giovanni Castiglia, Ayoub El Majjodi, Federica Calò, Yashar Deldjoo, Fedelucio Narducci, Alain Starke and Christoph Trattner",
-    "type": "LP",
-    "duration": 11
+    "title": "The Melodies of an Image: Exploring Music Recommendations Based on an Image's Content and Context",
+    "authors": "Ishmeet Kaur and Adwaita J Jadhav",
+    "type": "POS",
+    "duration": 8
   }
 ]
